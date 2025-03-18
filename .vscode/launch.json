@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrangegivenNumbersToFormTheBiggestNumber",
+            "request": "launch",
+            "mainClass": "ArrangegivenNumbersToFormTheBiggestNumber",
+            "projectName": "DSA-JAVA-_4e9af3cc"
+        },
+        {
+            "type": "java",
+            "name": "KthSmallestAndLargestElement",
+            "request": "launch",
+            "mainClass": "KthSmallestAndLargestElement",
+            "projectName": "DSA-JAVA-_4e9af3cc"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubArray",
+            "request": "launch",
+            "mainClass": "MaxSubArray",
+            "projectName": "DSA-JAVA-_4e9af3cc"
+        },
+        {
+            "type": "java",
+            "name": "MinInRotateArray",
+            "request": "launch",
+            "mainClass": "MinInRotateArray",
+            "projectName": "DSA-JAVA-_4e9af3cc"
+        },
+        {
+            "type": "java",
+            "name": "MinNumberOfMovesToMakeArrayPalindron",
+            "request": "launch",
+            "mainClass": "MinNumberOfMovesToMakeArrayPalindron",
+            "projectName": "DSA-JAVA-_4e9af3cc"
+        },
+        {
+            "type": "java",
+            "name": "PairSumInASortedAndRotatedArray",
+            "request": "launch",
+            "mainClass": "PairSumInASortedAndRotatedArray",
+            "projectName": "DSA-JAVA-_4e9af3cc"
+        },
+        {
+            "type": "java",
+            "name": "ProductOfArrayExceptSelf",
+            "request": "launch",
+            "mainClass": "ProductOfArrayExceptSelf",
+            "projectName": "DSA-JAVA-_4e9af3cc"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "DSA-JAVA-_4e9af3cc"
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class RevereArray {
+public class ReverseArray {
     public static int[] reverse(int []arr,int start,int end){
 if(arr.length==1){
     return arr;
