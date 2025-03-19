@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortColors",
+            "request": "launch",
+            "mainClass": "SortColors",
+            "projectName": "DSA-JAVA-_4e9af3cc"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
